@@ -1,4 +1,3 @@
-#Add Project
 A project to create adds
 
 Link: https://andreybasov.github.io/Add-App/
