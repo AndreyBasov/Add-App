@@ -4,7 +4,6 @@ import Footer from "./Footer";
 import Ad from "./Ad";
 import startingBanners from "./startingBanners";
 import CreateArea from "./CreateArea";
-import { Modal, Carousel } from "react-bootstrap";
 
 const App = () => {
   let [banners, setBanners] = useState([...startingBanners]);
